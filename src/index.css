@@ -1,0 +1,5 @@
+@import 'flowbite'; /* Pindahkan ke bagian atas */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
